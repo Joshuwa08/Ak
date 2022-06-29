@@ -6,6 +6,7 @@ public class DAY1 {
 		System.out.println("day 1");
 		System.out.println("day 2");
 		System.out.println("day 3");
+		System.out.println("----");
 		System.out.println("Ajith");
 		System.out.println("day 5");
 		System.out.println("day 6");
